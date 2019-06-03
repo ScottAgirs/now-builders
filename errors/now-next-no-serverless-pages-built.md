@@ -13,6 +13,7 @@ In order to create the smallest possible lambdas Next.js has to be configured to
 ```
 npm install next --save
 ```
+- _*if your project has `next` already installed, make sure that the version is 8 or later. Running the above command will not update it._
 
 2. Add the `now-build` script to your `package.json`
 
